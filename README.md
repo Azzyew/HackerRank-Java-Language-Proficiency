@@ -1,1 +1,1 @@
-# HackerRank-Java-Language-Proficiency
+# HackerRank Java Language Proficiency
